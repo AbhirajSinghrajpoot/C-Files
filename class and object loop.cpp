@@ -20,7 +20,6 @@ void tentoone::putdata()
     for(i=n;i>=1;i--)
        cout<<"\n"<<i;
 }
-
 int main()
 {
     tentoone aa;
